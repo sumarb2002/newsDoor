@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/newsDoor/static/css/main.79d19d76.css",
+    "main.js": "/newsDoor/static/js/main.b2fd8994.js",
+    "static/js/453.eb694bd3.chunk.js": "/newsDoor/static/js/453.eb694bd3.chunk.js",
+    "index.html": "/newsDoor/index.html",
+    "main.79d19d76.css.map": "/newsDoor/static/css/main.79d19d76.css.map",
+    "main.b2fd8994.js.map": "/newsDoor/static/js/main.b2fd8994.js.map",
+    "453.eb694bd3.chunk.js.map": "/newsDoor/static/js/453.eb694bd3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79d19d76.css",
+    "static/js/main.b2fd8994.js"
+  ]
+}
